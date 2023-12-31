@@ -12,5 +12,6 @@ Put this code in your main python code!
 import integerplus
 ```
 Note: If you have modified the name of integerplus.py file, change the import name to that name!
+### THIS IS NOT A PYPI PACKAGE! YOU MUST DOWNLOAD THE FILE IN THE RELEASES ON THIS PROJECT!
 
 Documentation - **Coming Soon!**
