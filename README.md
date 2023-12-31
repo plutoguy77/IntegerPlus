@@ -9,8 +9,8 @@ Download integerplus.py
 Put it in your project folder
 Put this code in your main python code!
 ```
-exec("integerplus.py")
+import integerplus
 ```
-Note: If you have modified the directory or changed the name of the file, make sure to set it the correct directory!
+Note: If you have modified the name of integerplus.py file, change the import name to that name!
 
 Documentation - **Coming Soon!**
